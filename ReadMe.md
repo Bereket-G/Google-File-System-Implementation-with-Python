@@ -65,11 +65,3 @@
 	*It is not operating system dependent. The chunkServer can be Windows, Linux or Mac in the network.	
 
 
-
-#### Group - Members
-
- 	1.Bekele Debisa
- 	2.Bereket Abera
- 	3.Bereket G/dingle
- 	4.Nathenael Tarekegn
- 	5.Kaleb wondowssen
